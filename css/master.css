@@ -19,7 +19,7 @@
     /* set the text color to black here */
     /* set the font here */
     /* set the text alignment here */
-    background-color: lightgreen;
+    background-color: grey;
     color:black;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -38,7 +38,7 @@
   h2 {
     /* set the text color of to #075AAB here */
     /* set both the bottom margin and top margin to 2.5rem here */
-    text-color:#075AAB;
+    color:default;
     top-margin: 2.5rem;
     bottom-margin: 2.5rem;
 
